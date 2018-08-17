@@ -1,0 +1,3 @@
+Class calc {
+	return false
+}
